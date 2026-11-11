@@ -1,0 +1,6 @@
+{
+  "name": "EVENTPRO",
+  "description": "Online booking and ticket-selling platform for concerts, football matches, basketball games, sports competitions, festivals, and live entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
